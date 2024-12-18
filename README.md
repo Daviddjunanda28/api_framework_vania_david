@@ -5,7 +5,7 @@
 ![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/POST_PRODUCTS.png?raw=true)
 
 # PUT PRODUCTS
-![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/PUT_PRODUCTS.png?raw=true)
+![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/UPDATE_PRODUCTS.png?raw=true)
 
 # DELETE PRODUCTS
 ![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/DELETE_PRODUCTS.png?raw=true)
@@ -14,7 +14,7 @@
 ![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/DB_PRODUCTS.png?raw=true)
 
 # POST USERS
-![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/PUT_USERS.png?raw=true)
+![alt text](https://github.com/Daviddjunanda28/api_framework_vania_david/blob/main/POST_REGISTER_USERS.png?raw=true)
 
 
 
